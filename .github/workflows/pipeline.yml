@@ -37,3 +37,4 @@ jobs:
           path: site
 
       - uses: actions/deploy-pages@v4
+      # CI/CD lab
